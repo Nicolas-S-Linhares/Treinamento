@@ -1,1 +1,4 @@
-# Treinamento
+# Treinameno
+
+- nginx
+- php8
