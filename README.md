@@ -1,5 +1,4 @@
 # Treinameno
 
-
 - nginx
 - php8
