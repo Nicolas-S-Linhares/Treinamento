@@ -25,7 +25,7 @@ jobs:
           aws-secret-access-key: ${{ secrets.AWS_EC2_ACCESS_KEY }}
           instance-ids: ${{ secrets.AWS_INSTANCE_ID }}
           working-directory: /home/ec2-user/Treinamento
-          command: git pull
+          command: echo "testando" >> teste.txt
 
 
       - name: Capturando o retorno
